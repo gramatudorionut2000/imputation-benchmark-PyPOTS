@@ -1,6 +1,6 @@
 # Filling the Gaps: Benchmarking Time-Series Imputation Methods with PyPOTS
 
-Code and experiments accompanying the Medium article:
+Code and experiments accompanying the Medium article: https://medium.com/@grama.tudorionut/filling-the-gaps-benchmarking-9-time-series-imputation-methods-with-pypots-b0adbf4c0813
 
 **"Filling the Gaps: Benchmarking 9 Time-Series Imputation Methods with PyPOTS"**
 
@@ -84,7 +84,7 @@ source .venv/bin/activate
 Run the notebooks:
 
 ```bash
-uv run jupyter notebook
+uv run jupyter imputation_notebook
 ```
 
 The notebooks cover:
